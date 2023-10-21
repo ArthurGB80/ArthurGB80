@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEFA&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Arthur+Gularte+Brandi;Bem-Vindo+ao+meu+GitHub!:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=87CEFA&size=35&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Arthur+Gularte+Brandi;Welcome+to+my+GitHub!:%29)](https://git.io/typing-svg)
 
 ## 
 
@@ -41,8 +41,9 @@ Feel free to reach out to me through my contact information below:
 
 
 #
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=7131HDMC.7131HDMC&theme=gotham)
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ArthurGB80.ArthurGB80" alt="visitors">
+</p>      
 
   
 
