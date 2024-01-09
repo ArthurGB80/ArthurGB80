@@ -4,20 +4,15 @@
 
 ## 
 
+Welcome! As a professional with a rich background in Structural Engineering, I have a proven track record of problem-solving and project management. My analytical skills and attention to detail, honed over a decade of engineering experience, are now being applied to the realm of software development, where I specialize in creating robust and efficient solutions.
 
-Hello! I'm currently going through an exciting career transition into the programming field. With a solid background in Structural Engineering, I have decided to explore my passion for technology and specialize in software development.
+Currently, I apply these skills in the field of software development, focusing on creating robust and efficient solutions. My technical proficiency spans Java, Spring Boot, and Quarkus for backend development, and Angular for frontend development.
 
-Currently, my focus is on enhancing my skills in backend development, using languages such as Java, Spring Boot, and Quarkus. I'm eager to learn about these technologies and apply them to create efficient and scalable solutions.
+I am deeply committed to lifelong learning and continuously enhance my skills through various courses and certifications. This commitment ensures that I stay abreast of industry trends and advancements, allowing me to deliver high-quality solutions.
 
-Although my journey in programming started recently, my previous experience in civil engineering, particularly in structural analysis, has provided me with a strong foundation in problem-solving, tackling complex challenges, and working in teams. These skills are transferable to the world of programming, where I am excited to apply them to innovative projects.
+My multidisciplinary background fuels my drive to develop innovative and impactful technological solutions. I believe that my combination of engineering acumen and software development skills makes me a strong fit for any team looking to push the boundaries of what's possible.
 
-I am constantly seeking knowledge and staying updated on industry best practices and trends. Through courses, tutorials, and hands-on projects, I am building a solid understanding of object-oriented programming, software architecture, and agile development.
-
-In addition to software development, I am also familiar with version control tools like Git and collaboration platforms like GitHub. I believe that collaboration and knowledge-sharing are essential for professional growth, and I look forward to contributing to the developer community.
-
-If you are looking for a dedicated developer who is passionate about programming, I am ready to contribute to the success of your project. Let's work together to create innovative and impactful solutions!
-
-Feel free to reach out to me through my contact information below:
+Reach out to me through my contact information below:
 
 ## 📧 Contact
 
